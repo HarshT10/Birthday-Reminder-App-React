@@ -2,11 +2,13 @@
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
-[Click Here]()
+[Click Here](https://birthday-reminder-app-harshcodes.netlify.app/)
 
 ---
 
 ## What did I learn from this Project?
+
+- Vite
 
 - React
 
